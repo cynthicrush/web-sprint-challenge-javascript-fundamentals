@@ -17,6 +17,7 @@ myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
 
+// Because of the rules of scope the nested function has access to variables that a higher scope.
 
 
 
